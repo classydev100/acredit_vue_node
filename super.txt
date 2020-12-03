@@ -1,0 +1,10 @@
+1- Number of users new old and closed ✅
+2- Total number of invoices to number and amount with and ex VAT ✅
+3- Number of invoices sent with reminder and debt collection ✅
+4- Number of invoices that are overdue and may need to be sent to the chancellor. ✅
+5- Total acredit income
+6- Sum of other income such as reminder, debt collection and interest income
+7- This information should be able to choose at different time intervals so that you can follow this for a month or a few years or the interval you wish. ✅
+8- Static from different areas they are in, ie how many of my consultants are from sthlm alternative valleys. mm  ✅
+9- If possible, also the age group of my consultants, ie the age group who are looking for and want to work through us.  ✅
+10- If possible also the industry in which they operate.  ✅
